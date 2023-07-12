@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Gabrielly. 👋🏽
+
+- I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
+
+  ```swift
+  let gabs: [String: Any] = ["pronouns": "she-her",
+                             "code": ["Swift", "UIKit", "SwiftUI"],
+                             "currentFocus": "learning mobile with Swift"]
+  ```
+
 
 <!--
 **doaard/doaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

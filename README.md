@@ -5,7 +5,7 @@
   ```swift
   let gabs: [String: Any] = ["pronouns": "she-her",
                              "code": ["Swift", "UIKit", "SwiftUI"],
-                             "currentFocus": ["learning mobile with Swift"]
+                             "currentFocus": "learning mobile with Swift"]
   ```
 
 

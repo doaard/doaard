@@ -1,6 +1,7 @@
 ### Hi, I'm Gabrielly. 👋🏽
 
-- I'm an Information Systems student and I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
+- Student of Systems Analysis and Development.
+- I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
 
   ```swift
   let gabs: [String: Any] = ["pronouns": "she-her",

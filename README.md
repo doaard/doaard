@@ -1,6 +1,5 @@
 ### Hi, I'm Gabrielly. 👋🏽
 
-- Student of Systems Analysis and Development.
 - I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
 
   ```swift

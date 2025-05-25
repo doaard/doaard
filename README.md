@@ -2,16 +2,10 @@
 
 - I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
 
-  ```swift
-let gabs: [String: Any] = [
-    "languages": ["Swift"],
-    "frameworks": ["UIKit", "SwiftUI"],
-    "currentFocus": "Building awesome iOS apps!"
-```
-
-
-
-
+    ```swift
+  let gabs: [String: Any] = [ "code": ["Swift", "UIKit", "SwiftUI"],
+                             "currentFocus": "learning mobile with Swift"]
+  ```
 
 <!--
 

@@ -3,12 +3,19 @@
 - I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
 
   ```swift
-  let gabs: [String: Any] = [ "code": ["Swift", "UIKit", "SwiftUI"],
-                             "currentFocus": "learning mobile with Swift"]
-  ```
+let gabs: [String: Any] = [
+    "languages": ["Swift"],
+    "frameworks": ["UIKit", "SwiftUI"],
+    "currentFocus": "Building awesome iOS apps!"
+```
+
+
+
 
 
 <!--
+
+
 **doaard/doaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

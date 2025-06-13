@@ -1,4 +1,13 @@
-### Hi, I'm Gabrielly. 👋🏽
+hi, my name is Gabrielly :)
+
+i love studying programming stuff, testing new things and creating projects. I'm currently focused on iOS development.
+
+
+
+
+
+
+### Hi, I'm Gabrielly. 👋 
 
 - I'm learning mobile development, focusing on 🍎 iOS (mainly Swift).
 

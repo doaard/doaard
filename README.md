@@ -3,12 +3,12 @@ hi, my name is Gabrielly :)
 i love studying programming stuff, testing new things and creating projects. i'm currently focused on iOS development.
 
 what I like:
-cats, books and staying at home.
-i want to explore computer graphics.
+- cats, books and staying at home.
+- i want to explore computer graphics.
 
 i'm interested in:
-developing an API with Swift and API Metal.
-projects that I think are cool and fun.
+- developing an API with Swift and API Metal.
+- projects that I think are cool and fun.
 
 that's it!
 <!--
